@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: xkdog
+title: 吕小康
 
 # Short description of your site
-description: 小康社会
+description: xkdog
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -45,7 +45,7 @@ author:
   name: 吕小康(Xiaokang, Lu)
   email: "xkdog@126.com; xkdogg@gmail.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: xkdog   # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
