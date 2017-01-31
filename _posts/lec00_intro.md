@@ -1,7 +1,7 @@
 ---
-output:
-  html_document: default
-  word_document: default
+layout: post
+title: "Lec01:Introduction to Fundamental Statistics Using R"
+publish: true
 ---
 
 # WK01 Introduction 课程总体介绍
