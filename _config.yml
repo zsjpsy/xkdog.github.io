@@ -22,7 +22,7 @@ description: xkdog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "吕小康"
+  About Me: "about me"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
