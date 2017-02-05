@@ -222,3 +222,5 @@ liquid_latex:
   temp_filename: "latex_temp"
   
   
+{% include lib/mathjax.html %}
+
