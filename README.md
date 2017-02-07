@@ -1,5 +1,7 @@
 # Beautiful Jekyll
 
+以下全部文字转自[Dean Attali](http://deanattali.com)，文中详细论述了模板的使用，值得细看。
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
